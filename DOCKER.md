@@ -8,6 +8,8 @@ Instalação, Configuração e Dicas
 
 [Apache_Server_Status](https://github.com/paulo-correia/Docker_Apache_Server_Status)
 
+[Apache_VHOSTS](https://github.com/paulo-correia/Docker_Apache_VHOSTS)
+
 [Apache SSL](https://github.com/paulo-correia/Docker_Apache_SSL)
 
 ## B
@@ -28,6 +30,8 @@ Instalação, Configuração e Dicas
 [Http_HTACCESS](https://github.com/paulo-correia/Docker_Apache_Htaccess)
 
 [Http_Server_Status](https://github.com/paulo-correia/Docker_Apache_Server_Status)
+
+[Http_VHOSTS](https://github.com/paulo-correia/Docker_Apache_VHOSTS)
 
 [Http SSL](https://github.com/paulo-correia/Docker_Apache_SSL)
 
