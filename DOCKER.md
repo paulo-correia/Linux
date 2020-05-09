@@ -41,6 +41,8 @@ Instalação, Configuração e Dicas
 ## I
 [Iftop](https://github.com/paulo-correia/Docker_Iftop)
 
+[Inotify](https://github.com/paulo-correia/Docker_Inotify)
+
 ## J
 
 ## K
