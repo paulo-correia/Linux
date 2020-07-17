@@ -30,6 +30,7 @@ Instalação, Configuração e Dicas
 [Docker](https://github.com/paulo-correia/Linux/blob/master/DOCKER.md)
 
 ## E
+[Ethtool](https://github.com/paulo-correia/Linux_Ethtool)
 
 ## F
 [Fontes-TTF](https://github.com/paulo-correia/Linux_Fontes-TTF)
